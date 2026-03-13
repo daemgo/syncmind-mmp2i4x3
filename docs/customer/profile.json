@@ -1,35 +1,35 @@
 {
   "profile": {
-    "companyName": "",
-    "shortName": "",
+    "companyName": "深圳市海牛科技有限公司",
+    "shortName": "海牛科技",
     "isListed": false,
-    "stockCode": "",
-    "website": "",
-    "industry": "",
-    "subIndustry": "",
-    "scale": "",
-    "mainBusiness": "",
+    "stockCode": null,
+    "website": null,
+    "industry": "批发和零售业",
+    "subIndustry": "移动互联网/电子产品",
+    "scale": "微型",
+    "mainBusiness": "电子产品研发与销售、日用百货、电子商务",
     "products": [],
     "targetCustomers": [],
-    "businessModel": "",
-    "rating": "",
-    "tags": [],
+    "businessModel": "假设待验证",
+    "rating": "C",
+    "tags": ["自然人独资", "微型企业", "移动互联网", "存续期"],
 
-    "summary": "",
+    "summary": "自然人独资 · 移动互联网/电子产品 · 微型企业（1-20人） · 存续期",
 
     "registration": {
-      "foundedDate": "",
-      "registeredCapital": "",
-      "paidInCapital": "",
-      "ownershipType": "",
+      "foundedDate": "2019-02-15",
+      "registeredCapital": "10万元人民币",
+      "paidInCapital": "未披露",
+      "ownershipType": "有限责任公司（自然人独资）",
       "branches": {
-        "count": "",
+        "count": 0,
         "locations": []
       },
-      "legalRisks": "",
-      "operatingAnomalies": "",
-      "penalties": "",
-      "summary": ""
+      "legalRisks": "未查询到",
+      "operatingAnomalies": "未查询到",
+      "penalties": "未查询到",
+      "summary": "无司法诉讼、经营异常或行政处罚记录。尹帅100%持股，任法定代表人、执行董事、总经理；孔杰任监事。"
     },
 
     "policyAnalysis": {
@@ -37,59 +37,70 @@
       "isDigitalTransformation": false,
       "isESG": false,
       "isHighTech": false,
-      "policySupportLevel": "",
-      "leverageStrategy": ""
+      "policySupportLevel": "无",
+      "leverageStrategy": "无政策红利可依托，强调降本增效"
     },
 
     "timing": {
-      "currentPhase": "",
-      "evidence": "",
-      "entryStrategy": ""
+      "currentPhase": "存续期",
+      "evidence": "运营6年但注册资本10万元、人员规模1-20人，未见扩张迹象",
+      "entryStrategy": "强调低成本、快速见效的轻量级方案"
     },
 
     "creditRisk": {
-      "legalRisk": "",
-      "operationalRisk": "",
-      "creditRating": "",
+      "legalRisk": "低",
+      "operationalRisk": "低",
+      "creditRating": "C-",
       "warnings": [],
-      "salesAdvice": ""
+      "salesAdvice": "微型企业预算有限，价格敏感度高，建议推轻量级SaaS方案"
     },
 
     "organization": {
-      "type": "",
-      "decisionChain": "",
-      "keyPersons": [],
-      "salesStrategy": ""
+      "type": "一人有限公司（自然人独资）",
+      "decisionChain": "极短",
+      "keyPersons": [
+        {"name": "尹帅", "title": "执行董事、总经理、法定代表人", "shareholding": "100%"},
+        {"name": "孔杰", "title": "监事", "shareholding": "-"}
+      ],
+      "salesStrategy": "决策权高度集中，直接对接尹帅即可，无需多方说服"
     },
 
     "strategy": {
-      "phase": "",
-      "growthStage": "",
-      "competitivePosition": "",
-      "digitalMaturity": "",
-      "analysisPath": "",
-      "informationQuality": "",
+      "phase": "存续期",
+      "growthStage": "平稳期",
+      "competitivePosition": "假设待验证",
+      "digitalMaturity": "假设较低",
+      "analysisPath": "Path B",
+      "informationQuality": "低",
       "expansionSignals": [],
       "contractionSignals": [],
       "riskSignals": []
     },
 
     "techStack": {
-      "current": [],
-      "inferred": [],
-      "maturity": "",
-      "direction": ""
+      "current": ["Excel", "微信", "简单财务工具"],
+      "inferred": ["基础办公软件"],
+      "maturity": "低",
+      "direction": "轻量级CRM、销售自动化"
     },
 
-    "keyMetrics": [],
+    "keyMetrics": [
+      {"label": "成立时间", "value": "2019年2月", "trend": null},
+      {"label": "注册资本", "value": "10万元", "trend": null},
+      {"label": "人员规模", "value": "1-20人", "trend": null},
+      {"label": "决策链条", "value": "1人", "trend": null}
+    ],
 
     "metadata": {
-      "createdAt": "",
-      "updatedAt": "",
-      "createdBy": "",
-      "version": "",
-      "sources": [],
-      "confidence": 0
+      "createdAt": "2025-03-13",
+      "updatedAt": "2025-03-13",
+      "createdBy": "AI",
+      "version": "1.0",
+      "sources": [
+        "https://www.qcc.com/cmainmember/4ea60f426f704d688167cf3e0e611c89",
+        "https://m.zhipin.com/gongsis/5d4d3ea2e8fb73cfi3V-3tu7FVdYww~~.html"
+      ],
+      "confidence": 30
     }
   }
 }
